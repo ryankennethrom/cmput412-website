@@ -3,4 +3,5 @@ nav:
   - Home: index.md
 theme: readthedocs
 plugins:
-  - mkdocs-video
+  - mkdocs-video:
+  - glightbox:

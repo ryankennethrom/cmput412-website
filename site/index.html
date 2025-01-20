@@ -22,7 +22,11 @@
     <![endif]-->
       <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
       <script>hljs.highlightAll();</script> 
-</head>
+ <link href="assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }</style> <script src="assets/javascripts/glightbox.min.js"></script></head>
 
 <body class="wy-body-for-nav" role="document">
 
@@ -70,9 +74,10 @@
               
                 <div><h1 id="welcome-to-my-cmput-412-website">Welcome to my CMPUT 412 Website</h1>
 <h3 id="example-video">Example Video</h3>
-<p><div class="video-container"><iframe src="https://www.youtube.com/watch?v=XOkk4bE0n0I" style="position:relative;width:100%;height:22.172vw" frameborder="0" allowfullscreen alt="type:video"></iframe></div></p>
+<p><a class="glightbox" href="https://youtu.be/RTVAiQrxC8w" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Hi" src="https://youtu.be/RTVAiQrxC8w"></a></p>
 <h3 id="example-screen-capture">Example Screen Capture</h3>
-<p><img alt="type:png" src="/images/test.png"></p></div>
+<p><a class="glightbox" href="../images/test.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="hej" src="../images/test.png"></a>
+adwdadw</p></div>
               
             </div>
           </div><footer>
@@ -110,10 +115,11 @@
         });
     </script>
 
-</body>
+<script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+</script></body>
 </html>
 
 <!--
 MkDocs version : 1.6.1
-Build Date UTC : 2025-01-20 11:20:55.839037+00:00
+Build Date UTC : 2025-01-20 11:32:13.599192+00:00
 -->
