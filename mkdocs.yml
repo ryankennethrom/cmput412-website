@@ -1,5 +1,6 @@
 site_name: CMPUT 412
 nav:
   - Home: index.md
-  - About: about.md
 theme: readthedocs
+plugins:
+  - mkdocs-video
