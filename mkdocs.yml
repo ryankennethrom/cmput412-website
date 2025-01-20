@@ -1,7 +1,12 @@
 site_name: CMPUT 412
 nav:
   - Home: index.md
-theme: readthedocs
+  - Exercise 1: ex1.md
+theme:
+  name: material
+  palette:
+    - scheme: slate
 plugins:
   - mkdocs-video:
   - glightbox:
+  - material/search:

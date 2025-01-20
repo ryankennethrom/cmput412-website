@@ -1,7 +1,11 @@
 # Welcome to my CMPUT 412 Website
 
-### Example Video
+<!-- ### Example Video
 ![type:video](https://www.youtube.com/embed/fomonQlLAmw)
 ### Example Screen Capture
-![](https://github.com/ryankennethrom/cmput412-website/images/test.png)
-adwdadw
+![Test](./images/test.png) -->
+
+#### Reports
+
+1. [Exercise 1 Report](ex1.md)
+
