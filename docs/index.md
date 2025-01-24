@@ -9,5 +9,4 @@
 
 1. [Exercise 1 Report](ex1.md)
 
-<!-- ![Hey](./videos/lane_following.mp4)
-![Test](./images/test.png) -->
+![Website Link](https://github.com/ryankennethrom/cmput412-main)
