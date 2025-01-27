@@ -12,7 +12,8 @@ Below shows an image and a video of the dashboard showing camera and motor signa
 ![type:video](https://www.youtube.com/embed/wcbK40LlINU)
 
 ### Calibrating the Camera
-After calibrating the camera, the robot generated the following files.
+Calibrating the camera makes sure that the robot receive accurate representation of its environment. The duckiebot's camera calibration is simplified and only needed us to move the robot's position and camera angles with respect to an image designed for calibrating it. After calibrating the camera, the robot generated the following files.
+
 #### camera intrinsic yaml
 
 ![Test](./images/camera_intrinsic.png)
@@ -50,4 +51,5 @@ One main and very useful features of docker is for quick and easy recreation of 
 ### References
 
 [Duckietown Documentation](https://docs.duckietown.com/daffy/opmanual-duckiebot/setup/setup_laptop/index.html)
+
 Project Partner: Abdullah Khadeli at akhadeli@ualberta.ca
