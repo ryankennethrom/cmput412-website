@@ -50,3 +50,4 @@ One main and very useful features of docker is for quick and easy recreation of 
 ### References
 
 [Duckietown Documentation](https://docs.duckietown.com/daffy/opmanual-duckiebot/setup/setup_laptop/index.html)
+Project Partner: Abdullah Khadeli at akhadeli@ualberta.ca
