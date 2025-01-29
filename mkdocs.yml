@@ -2,6 +2,7 @@ site_name: CMPUT 412
 nav:
   - Home: index.md
   - Exercise 1: ex1.md
+  - Exercise 2: ex2.md
 theme:
   name: material
   palette:

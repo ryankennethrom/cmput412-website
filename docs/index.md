@@ -8,7 +8,7 @@
 #### Reports
 
 1. [Exercise 1 Report](ex1.md)
-
+2. [Exercise 2 Report](ex2.md)
 #### Other Links
 
 [CMPUT 412 Repo](https://github.com/ryankennethrom/cmput412)
